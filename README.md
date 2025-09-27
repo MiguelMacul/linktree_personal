@@ -18,7 +18,7 @@ Apasionado por la tecnología, la programación y las finanzas. Aquí comparto m
 - [TikTok](https://www.tiktok.com/@mike.macuil)  
 - [Instagram](https://www.instagram.com/mikemacuil/#)  
 - [GitHub](https://github.com/MiguelMacul)  
-- [Mi Web](https://miguelmacul.github.io/page-mike-macuil/)
+- [Mi Web](https://MikeMacuil.github.io/page-mike-macuil/)
 
 ## Cómo usar
 Clona este repositorio o descarga los archivos y abre `index.html` en tu navegador. Todos los enlaces están listos para usarse y la página es **responsive**, funcionando en móvil y escritorio.
